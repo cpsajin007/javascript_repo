@@ -147,7 +147,7 @@ for(let i=0;i<newarray.length;i++)
 //     alert("success");
 //     console.log("clicked");
 // }
-//or
+//or anotherway
 let btn = document.getElementById("btn");
 addEventListener("click",function()
 {
